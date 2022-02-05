@@ -14,3 +14,5 @@ Packages needed:
 
 -Pillow
 
+Contact me for package installation help or use trusty Google
+
